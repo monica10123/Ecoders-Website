@@ -1,0 +1,49 @@
+.homedivision{
+    background-image: url(C:\Users\moni2\Desktop\my_react_applications\ecoders\src\img\bg_1.png);
+    background-size: 70%;
+    background-repeat: no-repeat;
+}
+
+.aboutdivision{
+    background-image: url(C:\Users\moni2\Desktop\my_react_applications\ecoders\src\img\aboutus.png);
+    background-size: cover;
+    height:300px;
+    background-repeat: no-repeat;
+}
+
+.aboutbgdivision{
+    background-image: url(C:\Users\moni2\Desktop\my_react_applications\ecoders\src\img\a7.jpeg);
+    height:500px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.servicedivision{
+    background-image: url(C:\Users\moni2\Desktop\my_react_applications\ecoders\src\img\services.png);
+    background-size: cover;
+    height:300px;
+    background-repeat: no-repeat;
+}
+
+.portfoliodivision{
+    background-image: url(C:\Users\moni2\Desktop\my_react_applications\ecoders\src\img\portfolio.png);
+    background-size: cover;
+    height:300px;
+    background-repeat: no-repeat;
+}
+
+.contactdivision{
+    background-image: url(C:\Users\moni2\Desktop\my_react_applications\ecoders\src\img\contact.png);
+    background-size: cover;
+    height:300px;
+    background-repeat: no-repeat;
+}
+
+.contactbgdivision{
+    background-image: url(C:\Users\moni2\Desktop\my_react_applications\ecoders\src\img\c2.jpg);
+    height:350px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
